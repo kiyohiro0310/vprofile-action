@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: kube.nk-1310.online
+  - host: vprofile.nk-1310.online
     http:
       paths:
       - path: /
